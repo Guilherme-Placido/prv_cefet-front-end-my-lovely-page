@@ -53,4 +53,4 @@ Deixe sua página com um visual *bem* agradavel. Algumas dicas:
          <li><a href="https://store.steampowered.com/">Steam</a></li>
       </ul>
    </details>
-Quer outro exemplo sobre site dos anos 90? [Internet Archive](web.archive.org) é um site que armazena várias versões de várias página Web na Internet. [Veja o site do CEFET-MG em 2001](https://web.archive.org/web/20010119180700/http://www.cefetmg.br/) e entenda o que é "site cara dos anos 90" :-) 
+Quer outro exemplo sobre site dos anos 90? <a href="https://web.archive.org/">Internet Archive</a> é um site que armazena várias versões de várias página Web na Internet. <a href="https://web.archive.org/web/20010119180700/http://www.cefetmg.br/">Veja o site do CEFET-MG em 2001</a> e entenda o que é "site cara dos anos 90" :-) 
