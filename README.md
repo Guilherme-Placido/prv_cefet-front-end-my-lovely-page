@@ -14,9 +14,10 @@ Além disso, você deve usar CSS usando obrigatoriamente:
 - ajustar cor da fonte
 - colocar algum fundo com transparencia
 # Desafio
-Deixe sua página com um visual *bem* agradavel. Algumas dicas: 
-**_Layout_ e _design_ agradáveis** - não pode ter carinha de site da década
-   de 90
+Deixe sua página com um visual *bem* agradavel. Para critério de pontuação, professor que irá definir se o layout realmente está *bem* agradável.
+
+Algumas dicas: 
+- não pode ter carinha de site da década de 90
    <details>
       <summary>Carinha dos anos 90???</summary>
       <p>Nos primórdios da Web, os designs eram bem ruins:
