@@ -22,12 +22,12 @@ Deixe sua página com um visual *bem* agradavel. Algumas dicas:
       <p>Nos primórdios da Web, os designs eram bem ruins:
       </p>
       <p>
-         <img src="../../images/site-anos-90s-1.png" height="250">
-         <img src="../../images/site-anos-90s-2.png" height="250">
-         <img src="../../images/site-anos-90s-3.png" height="250">
-         <img src="../../images/site-anos-90s-4.png" height="250">
-         <img src="../../images/site-anos-90s-5.png" height="250">
-         <img src="../../images/site-anos-90s-6.png" height="250">
+         <img src="imgs-anos90/site-anos-90s-1.png" height="250">
+         <img src="imgs-anos90/site-anos-90s-2.png" height="250">
+         <img src="imgs-anos90/site-anos-90s-3.png" height="250">
+         <img src="imgs-anos90/site-anos-90s-4.png" height="250">
+         <img src="imgs-anos90/site-anos-90s-5.png" height="250">
+         <img src="imgs-anos90/site-anos-90s-6.png" height="250">
       </p>
       <p>O que faziam "de errado"? Bom, hoje evitamos:</p>
       <ul>
