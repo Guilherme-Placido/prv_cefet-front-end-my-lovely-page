@@ -17,7 +17,7 @@ Além disso, você deve usar CSS usando obrigatoriamente:
 - colocar algum fundo com transparencia
 
 # Desafio
-Deixe sua página com um visual *bem* agradavel. Para critério de pontuação, professor que irá definir se o layout realmente está *bem* agradável. Porém, uma dica/referencia é que ele não pode ter carinha de site da década de 90 (nada contra os anos 90, na vdd, amo ele <3)
+Deixe sua página com um visual *bem* agradavel. Para critério de pontuação, professor que irá definir se o layout realmente está *bem* agradável. Porém, uma dica/referencia é que ele não pode ter carinha de site da década de 90 (nada contra os anos 90, na verdade, amo ele <3)
 
    <details>
       <summary>Carinha dos anos 90???</summary>
@@ -55,4 +55,4 @@ Deixe sua página com um visual *bem* agradavel. Para critério de pontuação, 
          <li><a href="https://store.steampowered.com/">Steam</a></li>
       </ul>
    </details>
-Quer outro exemplo sobre site dos anos 90? <a href="https://web.archive.org/">Internet Archive</a> é um site que armazena várias versões de várias página Web na Internet. <a href="https://web.archive.org/web/20010119180700/http://www.cefetmg.br/">Veja o site do CEFET-MG em 2001</a> e entenda o que é "site cara dos anos 90" :-) 
+Quer outro exemplo sobre site dos anos 90? <a href="https://web.archive.org/">Internet Archive</a> é um site que armazena várias versões de várias páginas Web na Internet. <a href="https://web.archive.org/web/20010119180700/http://www.cefetmg.br/">Veja o site do CEFET-MG em 2001</a> e entenda o que é "site cara dos anos 90" :-) 
