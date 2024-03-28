@@ -1,6 +1,6 @@
 # Minha primeira Página Web
 
-Faça uma uma página Web sobre você ou algo que gosta. É necessario fazer apenas um HTML, nela, deve conter:
+Faça uma uma página Web sobre você ou algo que gosta. Nela, deve conter:
 
 - Icone da página
 - Tabela
@@ -8,15 +8,17 @@ Faça uma uma página Web sobre você ou algo que gosta. É necessario fazer ape
 - Links
 - Imagens
 
+Não é necessário fazer mais que um arquivo HTML, mas, caso queira, pode aumentar um pouco ;-)
+
 Além disso, você deve usar CSS usando obrigatoriamente:
 - ajustar a cor ou imagem do fundo da página (Background)
 - ajustar margens e padding de elementos
 - ajustar cor da fonte
 - colocar algum fundo com transparencia
-# Desafio
-Deixe sua página com um visual *bem* agradavel. Para critério de pontuação, professor que irá definir se o layout realmente está *bem* agradável.
 
-Uma dica é que ele não pode ter carinha de site da década de 90
+# Desafio
+Deixe sua página com um visual *bem* agradavel. Para critério de pontuação, professor que irá definir se o layout realmente está *bem* agradável. Porém, uma dica/referencia é que ele não pode ter carinha de site da década de 90 (nada contra os anos 90, na vdd, amo ele <3)
+
    <details>
       <summary>Carinha dos anos 90???</summary>
       <p>Nos primórdios da Web, os designs eram bem ruins:
