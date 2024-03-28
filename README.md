@@ -16,8 +16,7 @@ Além disso, você deve usar CSS usando obrigatoriamente:
 # Desafio
 Deixe sua página com um visual *bem* agradavel. Para critério de pontuação, professor que irá definir se o layout realmente está *bem* agradável.
 
-Algumas dicas: 
-- não pode ter carinha de site da década de 90
+Uma dica é que ele não pode ter carinha de site da década de 90
    <details>
       <summary>Carinha dos anos 90???</summary>
       <p>Nos primórdios da Web, os designs eram bem ruins:
